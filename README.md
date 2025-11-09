@@ -1,5 +1,4 @@
-# 🧠 Ransomware Detection using Machine Learning  
-### _Keras | Scikit-learn | Pandas | Python_  
+# 🧠 Ransomware Detection using Machine Learning    
 
 ---
 
