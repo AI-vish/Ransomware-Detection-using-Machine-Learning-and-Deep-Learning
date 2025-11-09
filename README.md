@@ -1,0 +1,2 @@
+# Ransomware-Detection-using-Machine-Learning-and-Deep-Learning
+This project focuses on building a multi-model ransomware detection framework using both classical Machine Learning (ML) and **Deep Learning (DL) techniques.   The goal is to detect ransomware activity including zero-day variants across diverse, real-world datasets with a focus on binary (benign vs. ransomware) and family-level classification
